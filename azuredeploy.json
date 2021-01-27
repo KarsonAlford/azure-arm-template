@@ -34,7 +34,7 @@
       "location": "[parameters('location')]",
       "properties": {
         "hardwareProfile": {
-          "vmSize": "Standard_B1ls"
+          "vmSize": "Standard_B1s"
         },
         "osProfile": {
           "computerName": "[variables('vmName')]",
